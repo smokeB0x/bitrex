@@ -10,4 +10,4 @@ Note: If the scipt fails to open you may have to enable the use of scripts on th
 Set-ExecutionPolicy RemoteSigned
 Press enter and type "A", then press enter agein.
 
-You can now run scripts on you PC.
+You can now run scripts on your PC.
