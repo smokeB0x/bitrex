@@ -8,6 +8,6 @@ The file RUN.bat is there for ease of use, as you can double click this file to 
 
 Note: If the scipt fails to open you may have to enable the use of scripts on the PC.  To do this open powershell as administrator, type:
 Set-ExecutionPolicy RemoteSigned
-Press enter and type "A", then press enter agein.
+Press enter and type "A", then press enter again.
 
 You can now run scripts on your PC.
