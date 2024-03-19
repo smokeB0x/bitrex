@@ -6,7 +6,7 @@ This simple script lists the bitlocker status of the drives on your PC.  Based o
 
 The file RUN.bat is there for ease of use, as you can double click this file to start the .ps1 script.
 
-Note: If the scipt fails to open you may have to enable the use of scripts on the PC.  To do this open powershell as administrator, type:
+Note: If the script fails to open you may have to enable the use of scripts on the PC.  To do this open powershell as administrator, type:
 Set-ExecutionPolicy RemoteSigned
 Press enter and type "A", then press enter again.
 
